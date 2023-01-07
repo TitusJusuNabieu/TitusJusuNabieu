@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TitusJusuNabieu
-- 👀 I’m interested in Software Engineering 
+- 👀 I’m a Software Engineering 
 - 📫 Reach me at nabieutitusjusu@gmail.com
 
 <!---
