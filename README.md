@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TitusJusuNabieu
 - 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning micro services 
-- 💞️ I’m looking to collaborate on a project am building for schools in low and middle income countries 
 - 📫 Reach me at nabieutitusjusu@gmail.com
 
 <!---
